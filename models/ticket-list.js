@@ -35,3 +35,5 @@ class TicketList {
     return siguienteTicket;
   }
 }
+
+module.exports = TicketList;
